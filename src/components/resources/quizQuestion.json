@@ -1,0 +1,48 @@
+[
+  {
+      "question": "What is ReactJS?",
+      "optionA": "Server-side framework",
+      "optionB": "user interface framework",
+      "optionC": "both a and b",
+      "optionD": "none of the above",
+      "answer": "user interface framework"
+  },
+
+  {
+      "question": "React.js is written in which of the following language?",
+      "optionA": "JavaScript",
+      "optionB": "Java",
+      "optionC": "C",
+      "optionD": "C++",
+      "answer": "JavaScript"
+  },
+
+  {
+      "question": "What is a state in React?",
+      "optionA": "A permanent storage.",
+      "optionB": "Internal storage of the component.",
+      "optionC": "External storage of the component",
+      "optionD": "None of the above.",
+      "answer": "Internal storage of the component."
+  },
+
+  {
+      "question": "What is the return value of the useState hook?",
+      "optionA": " Pair of current state and function updating it",
+      "optionB": "Current State",
+      "optionC": "Function updating the current state",
+      "optionD": "UseState returns nothing",
+      "answer": " Pair of current state and function updating it"
+  },
+
+  {
+    "question": "How many elements can a valid React component return?",
+    "optionA": "1",
+    "optionB": "2",
+    "optionC": "3",
+    "optionD": "4",
+    "answer": "1"
+  }
+  
+
+]
